@@ -1,0 +1,38 @@
+body {
+    background-color: #1E152A;
+  }
+
+  .square {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+  }
+
+  .fizz {
+    background-color: #50D8D7;
+  }
+
+  .buzz {
+    background-color: #CA3CFF;
+  }
+
+  .fizzbuzz {
+    background-color: #C2E812;
+  }
+
+  .normal {
+    background-color: #EC9192;
+  }
+
+  h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+  }
+
+  span {
+    color: #C2E812 ;
+  }
